@@ -19,7 +19,10 @@ In the project directory, you can run:
 
 To download all the needed dependencies.
 
+### `npm run server`
+
+Should run the server first so the app will work
+
 ### `npm start`
 
-1. npm run server ( should run the server first so the app will work )
-2. npm start ( run the app )
+To run the app
