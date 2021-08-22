@@ -11,7 +11,7 @@ In this project you could do the below things:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Launches the project.
 
 In the project directory, you can run:
 
@@ -19,7 +19,7 @@ In the project directory, you can run:
 
 To download all the needed dependencies.
 
-### `Launches the project.`
+### `npm start`
 
 1. npm run server ( should run the server first so the app will work )
 2. npm start ( run the app )
