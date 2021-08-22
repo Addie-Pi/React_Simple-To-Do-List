@@ -19,9 +19,7 @@ In the project directory, you can run:
 
 To download all the needed dependencies.
 
-### `yarn start`
-
-Launches the project.
+### `Launches the project.`
 
 1. npm run server ( should run the server first so the app will work )
 2. npm start ( run the app )
